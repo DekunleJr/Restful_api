@@ -1,0 +1,29 @@
+{
+    "user1": {
+      "id":1,
+      "firstname":"Bosede",
+      "lastname":"Omoware",
+      "email":"Omo@gmail.com"
+    },
+  
+    "user2":  {
+      "id":2,
+      "firstname":"Okownko",
+      "lastname":"Emeka",
+      "email":"sEmekon@gmail.com"
+    },
+  
+    "user3":  {
+      "id":3,
+      "firstname":"Donald",
+      "lastname":"Olamide",
+      "email":"olanald@gmail.com"
+    },
+  
+    "user4": {
+      "id":4,
+      "firstname":"Abayomi",
+      "lastname":"Tella",
+      "email":"tella@gmail.com"
+    }
+  }
